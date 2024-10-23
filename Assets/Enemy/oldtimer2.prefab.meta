@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9448ef778a829e547a2990deda4e179a
+labels:
+- Bomb
+- Clock
+- Dynamite
+- Explosive
+- Prop
+- Weapon
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
