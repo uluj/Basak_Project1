@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/WhiteHealthText.uss?fileID=7433441132597879392&amp;guid=e5ff381d7bcb48b48a7e12d3bd2ae98a&amp;type=3#WhiteHealthText" />
+    <Style src="project://database/Assets/UI%20Toolkit/BlackLoseText.uss?fileID=7433441132597879392&amp;guid=55dafac8c9292d940a5a78accf91fa58&amp;type=3#BlackLoseText" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Health=" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" class="header" style="font-size: 120px; height: 156px; align-self: flex-start;" />
+        <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="HealthLabel" class="header" style="-unity-text-align: lower-left; align-self: center; justify-content: flex-start; align-items: flex-start; position: absolute; bottom: auto; font-size: 120px; top: 0; left: 460px;" />
+        <ui:Label tabindex="-1" text="You Losed" parse-escape-sequences="true" display-tooltip-when-elided="true" name="LoseLabel" style="font-size: 350px; -unity-text-align: middle-center; position: absolute; align-items: auto; justify-content: center; left: 70px; top: 26%;" />
+    </ui:VisualElement>
+</ui:UXML>

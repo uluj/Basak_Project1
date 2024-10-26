@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pathmag
+  - Path
+  - Paththird
+  - Coin
+  - Enemy2
+  - Enemy3
+  - Enemy
   layers:
   - Default
   - TransparentFX
