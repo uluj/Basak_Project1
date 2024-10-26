@@ -18,7 +18,7 @@ public class Health : MonoBehaviour
     void OnParticleCollision(GameObject other)
     {
         HitProcedure();
-   
+        Debug.Log("collided with particle");
 
     }
 
